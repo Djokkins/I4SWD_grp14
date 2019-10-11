@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\Composite.csproj": {}
+    "C:\\Users\\andre\\OneDrive - Aarhus universitet\\AarhusUNI\\IKT\\Fjerde_Semester\\SWD\\I4SWD_grp14\\Composite\\Composite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\Composite.csproj": {
+    "C:\\Users\\andre\\OneDrive - Aarhus universitet\\AarhusUNI\\IKT\\Fjerde_Semester\\SWD\\I4SWD_grp14\\Composite\\Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\Composite.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\OneDrive - Aarhus universitet\\AarhusUNI\\IKT\\Fjerde_Semester\\SWD\\I4SWD_grp14\\Composite\\Composite.csproj",
         "projectName": "Composite",
-        "projectPath": "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\Composite.csproj",
-        "packagesPath": "C:\\Users\\djokk_000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\obj\\",
+        "projectPath": "C:\\Users\\andre\\OneDrive - Aarhus universitet\\AarhusUNI\\IKT\\Fjerde_Semester\\SWD\\I4SWD_grp14\\Composite\\Composite.csproj",
+        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andre\\OneDrive - Aarhus universitet\\AarhusUNI\\IKT\\Fjerde_Semester\\SWD\\I4SWD_grp14\\Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\djokk_000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
