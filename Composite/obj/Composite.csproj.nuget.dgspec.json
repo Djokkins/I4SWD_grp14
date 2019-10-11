@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djokk_000\\source\\git\\I4SWD_grp14\\Composite\\Composite.csproj": {}
+    "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\Composite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\djokk_000\\source\\git\\I4SWD_grp14\\Composite\\Composite.csproj": {
+    "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\Composite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djokk_000\\source\\git\\I4SWD_grp14\\Composite\\Composite.csproj",
+        "projectUniqueName": "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\Composite.csproj",
         "projectName": "Composite",
-        "projectPath": "C:\\Users\\djokk_000\\source\\git\\I4SWD_grp14\\Composite\\Composite.csproj",
+        "projectPath": "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\Composite.csproj",
         "packagesPath": "C:\\Users\\djokk_000\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djokk_000\\source\\git\\I4SWD_grp14\\Composite\\obj\\",
+        "outputPath": "C:\\Users\\djokk_000\\Source\\Repos\\I4SWD_grp14\\Composite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
