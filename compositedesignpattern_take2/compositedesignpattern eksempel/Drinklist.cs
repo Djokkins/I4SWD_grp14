@@ -12,7 +12,7 @@ namespace compositedesignpattern_eksempel
         private List<IDrinklist> shots = new List<IDrinklist>();
         private List<IDrinklist> drinks = new List<IDrinklist>();
 
-        public Drink(string name, string ingredients)
+        public Drink(string name, string content)
         {
             this._name = name;
             this._content = content;
