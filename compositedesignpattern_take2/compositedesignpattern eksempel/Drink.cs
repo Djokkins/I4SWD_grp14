@@ -6,20 +6,20 @@ namespace compositedesignpattern_eksempel
 {
     public class Drink : IDrinklist
     {
-        private string name;
-        private string ingredients;
+        private string _name;
+        private string _content;
 
         private List<IDrinklist> shots = new List<IDrinklist>();
 
-        public Drink(string name, string ingredients)
+        public Drink(string name, string content)
         {
-            this.name = name;
-            this.ingredients = ingredients;
+            this._name = name;
+            this._content = content;
         }
 
         void IDrinklist.Printdrinkinfo()
         {
-            Console.WriteLine(name + " have the following ingredients " + ingredients);
+            Console.WriteLine(_name + " have the following ingredients " + _content);
             //show all the shots ingredients
             foreach (IDrinklist i in shots)
                 i.Printdrinkinfo();

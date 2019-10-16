@@ -6,18 +6,18 @@ namespace compositedesignpattern_eksempel
 {
     public class Shot : IDrinklist
     {
-        private string name;
-        private int ingredients;
+        private string _name;
+        private string _content;
 
-        public Shot(string name, int happiness)
+        public Shot(string name, string content)
         {
-            this.name = name;
-            this.ingredients = ingredients;
+            this._name = name;
+            this._content = _content;
         }
 
         void IDrinklist.Printdrinkinfo()
         {
-            Console.WriteLine(name + " have the following ingredients " + ingredients);
+            Console.WriteLine(_name + " have the following ingredients " + _content);
         }
     }
 }
