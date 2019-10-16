@@ -1,0 +1,11 @@
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.exe
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.deps.json
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.runtimeconfig.json
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.runtimeconfig.dev.json
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.dll
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.pdb
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\obj\Debug\netcoreapp3.0\compositedesignpattern eksempel.csprojAssemblyReference.cache
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\obj\Debug\netcoreapp3.0\compositedesignpattern eksempel.AssemblyInfoInputs.cache
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\obj\Debug\netcoreapp3.0\compositedesignpattern eksempel.AssemblyInfo.cs
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\obj\Debug\netcoreapp3.0\compositedesignpattern eksempel.dll
+C:\Users\Bertram D Eriksen\source\repos\compositedesignpattern eksempel\compositedesignpattern eksempel\obj\Debug\netcoreapp3.0\compositedesignpattern eksempel.pdb
