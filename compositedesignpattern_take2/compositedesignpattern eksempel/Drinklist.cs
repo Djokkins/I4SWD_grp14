@@ -8,31 +8,22 @@ namespace compositedesignpattern_eksempel
     {
         private string _name;
         private string _content;
+        private Shot shot = new Shot();
+        private Drinks drinks = new Drinks();
 
-        private List<IDrinklist> shots = new List<IDrinklist>();
-        private List<IDrinklist> drinks = new List<IDrinklist>();
-
-        public Drink(string name, string content)
+        public Drinklist(string name)
         {
             this._name = name;
-            this._content = content;
         }
 
         void IDrinklist.Printdrinkinfo()
         {
-            Console.WriteLine(_name + " have the following ingredients " + _content);
             //show all the shots ingredients
-            foreach (IDrinklist i in shots)
+            foreach (IDrinklist i in shot.shots)
                 i.Printdrinkinfo();
-        }
 
-        public void AddShot(IDrinklist shot)
-        {
-            shots.Add(shot);
-        }
-        public void Adddrink(IDrinklist drink)
-        {
-            drink.Add(drink);
+            foreach (IDrinklist i in drinks.drinks)
+                i.Printdrinkinfo();
         }
     }
 }

@@ -14,3 +14,9 @@ C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositede
 C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\obj\Debug\netcoreapp3.0\compositedesignpattern eksempel.AssemblyInfo.cs
 C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\obj\Debug\netcoreapp3.0\compositedesignpattern eksempel.dll
 C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\obj\Debug\netcoreapp3.0\compositedesignpattern eksempel.pdb
+C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.exe
+C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.deps.json
+C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.runtimeconfig.json
+C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.runtimeconfig.dev.json
+C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.dll
+C:\Users\andre\Source\Repos\I4SWD_grp14\compositedesignpattern_take2\compositedesignpattern eksempel\bin\Debug\netcoreapp3.0\compositedesignpattern eksempel.pdb
