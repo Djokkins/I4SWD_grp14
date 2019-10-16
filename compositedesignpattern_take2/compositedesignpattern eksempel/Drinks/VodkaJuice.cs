@@ -4,12 +4,12 @@ using System.Text;
 
 namespace compositedesignpattern_eksempel
 {
-    public class SmallSour
+    public class VodkaJuice : IDrinklist
     {
         private string _name;
         private string _content;
 
-        public SmallSour(string name = "Small sour", string content = "Flavours: Apple, Cola, Peach, Liquorice etc.")
+        public VodkaJuice(string name = "Vodka Juice", string content = "4cl Vodka with Apple- or Orange Juice")
         {
             this._name = name;
             this._content = content;
@@ -17,7 +17,7 @@ namespace compositedesignpattern_eksempel
 
         public void Printdrinkinfo()
         {
-            Console.WriteLine(_name + ": Has content: " + _content);
+            Console.WriteLine("\t" + "\t" + _name + ": Has content: " + _content);
         }
     }
 }
