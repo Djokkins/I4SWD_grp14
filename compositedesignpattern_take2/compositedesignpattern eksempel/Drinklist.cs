@@ -4,14 +4,15 @@ using System.Text;
 
 namespace compositedesignpattern_eksempel
 {
-    public class Drink : IDrinklist
+    public class Drinklist : IDrinklist
     {
         private string name;
         private string ingredients;
 
         private List<IDrinklist> shots = new List<IDrinklist>();
+        private List<IDrinklist> drinks = new List<IDrinklist>();
 
-        public Drink(string name, string ingredients)
+        public Drinklist(string name, string ingredients)
         {
             this.name = name;
             this.ingredients = ingredients;
@@ -28,6 +29,10 @@ namespace compositedesignpattern_eksempel
         public void AddShot(IDrinklist shot)
         {
             shots.Add(shot);
+        }
+        public void Adddrink(IDrinklist drink)
+        {
+            drink.Add(drink);
         }
     }
 }
