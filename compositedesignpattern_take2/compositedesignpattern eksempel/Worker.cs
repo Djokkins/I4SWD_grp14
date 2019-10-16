@@ -4,7 +4,7 @@ using System.Text;
 
 namespace compositedesignpattern_eksempel
 {
-    public class Worker : IEmployee
+    public class Worker : IDrinklist
     {
         private string name;
         private int happiness;
@@ -15,7 +15,7 @@ namespace compositedesignpattern_eksempel
             this.happiness = happiness;
         }
 
-        void IEmployee.ShowHappiness()
+        void IDrinklist.Printdrinkinfo();
         {
             Console.WriteLine(name + " showed happiness level of " + happiness);
         }

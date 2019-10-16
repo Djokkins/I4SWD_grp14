@@ -4,8 +4,8 @@ using System.Text;
 
 namespace compositedesignpattern_eksempel
 {
-    public interface IEmployee
+    public interface IDrinklist
     {
-        void ShowHappiness();
+        void Printdrinkinfo();
     }
 }

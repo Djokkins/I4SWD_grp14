@@ -19,8 +19,8 @@ namespace compositedesignpattern_eksempel
             d.AddSubordinate(e); //Jimmy works for Bob
 
             //Jerry shows his happiness and asks everyone else to do the same
-            if (c is IEmployee)
-                (c as IEmployee).ShowHappiness();
+            if (c is IDrinklist)
+                (c as IDrinklist).Printdrinkinfo();
         }
     }
 }

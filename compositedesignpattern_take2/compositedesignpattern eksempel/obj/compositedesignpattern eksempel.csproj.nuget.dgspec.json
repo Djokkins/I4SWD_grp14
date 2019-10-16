@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bertram D Eriksen\\source\\repos\\compositedesignpattern eksempel\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj": {}
+    "C:\\Users\\Bertram D Eriksen\\Source\\Repos\\Djokkins\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bertram D Eriksen\\source\\repos\\compositedesignpattern eksempel\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj": {
+    "C:\\Users\\Bertram D Eriksen\\Source\\Repos\\Djokkins\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bertram D Eriksen\\source\\repos\\compositedesignpattern eksempel\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj",
+        "projectUniqueName": "C:\\Users\\Bertram D Eriksen\\Source\\Repos\\Djokkins\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj",
         "projectName": "compositedesignpattern eksempel",
-        "projectPath": "C:\\Users\\Bertram D Eriksen\\source\\repos\\compositedesignpattern eksempel\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj",
+        "projectPath": "C:\\Users\\Bertram D Eriksen\\Source\\Repos\\Djokkins\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj",
         "packagesPath": "C:\\Users\\Bertram D Eriksen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bertram D Eriksen\\source\\repos\\compositedesignpattern eksempel\\compositedesignpattern eksempel\\obj\\",
+        "outputPath": "C:\\Users\\Bertram D Eriksen\\Source\\Repos\\Djokkins\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
