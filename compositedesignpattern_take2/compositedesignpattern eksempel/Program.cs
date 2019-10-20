@@ -1,27 +1,33 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace compositedesignpattern_eksempel
 {
     class Program
     {
+        public static Shot shot = new Shot();
+        public static Drinks drinks = new Drinks();
+
+        public List<IDrinklist> drinklists = new List<IDrinklist>();
+
         static void Main(string[] args)
         {
-            Drinklist drinklist = new Drinklist("Drinklist");
-            IDrinklist iDrinklist = drinklist;
-            iDrinklist.Printdrinkinfo();
+            Console.WriteLine("Drinklist:");
 
-            //  Supervisor b = new Supervisor("Supervisor Mary", 6);
-            //   Supervisor c = new Supervisor("Supervisor Jerry", 7);
-            //  Supervisor d = new Supervisor("Supervisor Bob", 9);
-            // Worker e = new Worker("Worker Jimmy", 8);
+            shot.AddShot(new SmallSour());
+            shot.AddShot(new LiqueurShot());
+            shot.AddShot(new Tequila());
+            shot.AddShot(new RussianCocaine());
+            shot.Printdrinkinfo();
 
-            //set up the relationships
-            //   b.AddSubordinate(a); //Tom works for Mary
-            //  c.AddSubordinate(b); //Mary works for Jerry
-            //  c.AddSubordinate(d); //Bob works for Jerry
-            //  d.AddSubordinate(e); //Jimmy works for Bob
+            drinks.AddDrink(new VodkaJuice());
+            drinks.AddDrink(new GinTonic());
+            drinks.AddDrink(new RumCoke());
+            drinks.AddDrink(new BlueLagoon());
+            drinks.Printdrinkinfo();
 
-            //Jerry shows his happiness and asks everyone else to do the same
+
         }
     }
 }

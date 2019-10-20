@@ -4,26 +4,26 @@ using System.Text;
 
 namespace compositedesignpattern_eksempel
 {
-    public class Shot : IDrinklist
+    public class QualityShooters : IDrinklist
     {
-        public List<IDrinklist> shots = new List<IDrinklist>();
+        public List<IDrinklist> qualityShooters = new List<IDrinklist>();
         private string _name;
         private string _content;
 
-        public Shot(string name = "Shots")
+        public QualityShooters(string name = "Quality Shooters")
         {
             this._name = name;
         }
 
-        public void AddShot(IDrinklist bufShot)
+        public void AddShot(IDrinklist bufQualityShooters)
         {
-            shots.Add(bufShot);
+            qualityShooters.Add(bufQualityShooters);
         }
 
         public void Printdrinkinfo()
         {
             Console.WriteLine("\t" + _name + ": ");
-            foreach (IDrinklist i in shots)
+            foreach (IDrinklist i in qualityShooters)
                 i.Printdrinkinfo();
         }
     }

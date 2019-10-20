@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\andre\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\AndreasAHN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Source\\Repos\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj",
+      "projectUniqueName": "C:\\Users\\AndreasAHN\\source\\repos\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj",
       "projectName": "compositedesignpattern eksempel",
-      "projectPath": "C:\\Users\\andre\\Source\\Repos\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj",
-      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Source\\Repos\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\obj\\",
+      "projectPath": "C:\\Users\\AndreasAHN\\source\\repos\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\compositedesignpattern eksempel.csproj",
+      "packagesPath": "C:\\Users\\AndreasAHN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\AndreasAHN\\source\\repos\\I4SWD_grp14\\compositedesignpattern_take2\\compositedesignpattern eksempel\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AndreasAHN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
