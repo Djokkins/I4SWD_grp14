@@ -4,12 +4,12 @@ using System.Text;
 
 namespace compositedesignpattern_eksempel
 {
-    public class Aeblekageshots : IDrinklist
+    public class Applecakeshots : IDrinklist
     {
         private string _name;
         private string _content;
 
-        public Aeblekageshots(string name = "Aeblekageshots", string content = "Vodka, Galliano and Apple Juice")
+        public Applecakeshots(string name = "Applecakeshots", string content = "Vodka, Galliano and Apple Juice")
         {
             this._name = name;
             this._content = content;

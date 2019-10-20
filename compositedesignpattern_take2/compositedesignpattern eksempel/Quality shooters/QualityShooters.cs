@@ -8,7 +8,6 @@ namespace compositedesignpattern_eksempel
     {
         public List<IDrinklist> qualityShooters = new List<IDrinklist>();
         private string _name;
-        private string _content;
 
         public QualityShooters(string name = "Quality Shooters")
         {

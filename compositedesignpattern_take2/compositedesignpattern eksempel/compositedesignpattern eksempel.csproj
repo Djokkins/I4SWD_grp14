@@ -6,8 +6,4 @@
     <RootNamespace>compositedesignpattern_eksempel</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Beer\" />
-  </ItemGroup>
-
 </Project>
